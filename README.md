@@ -1,4 +1,9 @@
-# Hi, I'm graysurf 👋
+## About Me
+
+Backend and platform engineer with 10+ years across distributed services, data platforms, and cloud-native
+delivery on Kubernetes. I turn unsettled requirements and tangled
+system boundaries into clear structures that teams can build on — and lately, into workflows where AI coding agents do the
+same.
 
 I build tools that let coding agents do real engineering work reliably — and I run them that way every day.
 
@@ -36,20 +41,18 @@ test-first gates, release gates, and hands-on acceptance before anything counts 
 - [**night-owl-cli**](https://github.com/sympoies/night-owl-cli) — a synchronized Night Owl theme for the whole terminal.
 - [**nils-alfredworkflow**](https://github.com/sympoies/nils-alfredworkflow) — Alfred workflows for macOS.
 
-**Writing**
-
-- [**agent-workflow-playbook**](https://github.com/sympoies/agent-workflow-playbook) — a Chinese playbook on turning ad-hoc agent
-  workflows into maintainable skills, hooks, policies, CLI contracts, and shared frontends.
-
 ## What I'm good at
 
+- **Backend and platform architecture** — service boundaries, API and data-model design, and shared backend baselines that
+  keep many projects consistent.
+- **Data platforms** — Spark, ELK, PostgreSQL, Elasticsearch, and Neo4j pipelines and query systems at billions-of-records scale.
 - **Multi-agent engineering workflows** — dispatch, review lanes, merge queues, acceptance, handoff, and recovery when sessions
   stall or get compacted.
 - **CLI and contract design** — small composable tools with stable JSON output, typed errors, and deterministic exit codes that
   both people and agents can rely on.
-- **Rust, TypeScript, Python, and shell** — from Rust workspaces to web dashboards and fleet scripts; earlier, Scala data
-  pipelines and crawlers.
-- **CI and release engineering** — test-first gates, scoped CI, nightly and release validation, Homebrew distribution.
+- **Languages** — Rust, TypeScript / Node.js, Go, Java / Spring Boot, Python, Scala, and shell.
+- **Cloud-native delivery and CI** — Docker, Kubernetes, AWS, GCP; GitHub Actions and GitLab CI; test-first gates, scoped CI,
+  nightly and release validation, Homebrew distribution.
 - **Self-hosted infrastructure** — running services, monitoring, and local LLM inference on a small fleet of Linux and macOS hosts.
 
 ## How I work
