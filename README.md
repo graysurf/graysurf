@@ -28,7 +28,7 @@ test-first gates, release gates, and hands-on acceptance before anything counts 
 **Visibility for humans**
 
 - [**salon**](https://github.com/sympoies/salon) — a self-hostable, container-first chat workspace for working with coding
-  agents from a browser: start a session, talk to it, and reconnect to the same session later. Early stage; it already
+  agents from a browser: start a session, talk to it, and reconnect to the same session later. It already
   powers the shared core of my own agent console.
 - [**symphony-board**](https://github.com/sympoies/symphony-board) — a read-only, cross-provider board for GitHub/GitLab issues,
   PRs/MRs, activity, and typed relationships.
