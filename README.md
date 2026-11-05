@@ -30,6 +30,8 @@ test-first gates, release gates, and hands-on acceptance before anything counts 
 - [**salon**](https://github.com/sympoies/salon) — a self-hostable, container-first chat workspace for working with coding
   agents from a browser: start a session, talk to it, and reconnect to the same session later. It already
   powers the shared core of my own agent console.
+- [**agent-collab**](https://github.com/sympoies/agent-collab) — a way for people and their AI agents to collaborate
+  through a Git repository, plus a read-only viewer that shows the conversation like a chat room.
 - [**symphony-board**](https://github.com/sympoies/symphony-board) — a read-only, cross-provider board for GitHub/GitLab issues,
   PRs/MRs, activity, and typed relationships.
 - [**host-monitor**](https://github.com/sympoies/host-monitor) — a central, read-only dashboard for Linux host resources,
