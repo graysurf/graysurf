@@ -22,8 +22,6 @@ test-first gates, release gates, and hands-on acceptance before anything counts 
   `api-websocket`), evidence and devlog tools, and more. Installable from the [Homebrew tap](https://github.com/sympoies/homebrew-tap).
 - [**agent-runtime-kit**](https://github.com/sympoies/agent-runtime-kit) — one shared source of truth for agent skills, hooks,
   and policies across Codex, Claude, and Hermes.
-- [**agent-sandbox**](https://github.com/sympoies/agent-sandbox) — a pinned Linux container that validates an agent toolchain
-  combination before it reaches real hosts.
 
 **Visibility for humans**
 
